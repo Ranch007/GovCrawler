@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+output/
+tmp_*
+urls.txt
+*.zip
+.DS_Store
+
