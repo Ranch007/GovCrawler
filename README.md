@@ -210,6 +210,9 @@ python -m src.generate_docx --fmt both
 - 全部阶段均捕获 `Ctrl+C`（`KeyboardInterrupt`），中断时打印提示信息，不会抛出 traceback
 - 爬取阶段同时按 URL 和 title 双重去重，防止重复请求和处理
 
+## 特别声明
+- 仅供政策研究使用，只限学术用途。
+
 ## 许可
 
 [MIT](LICENSE)
