@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-按关键词从 [gov.cn](https://www.gov.cn) 搜索政策文件，并发爬取正文，合并去重导出 **JSON、CSV、XLSX** 和 **逐篇 `.docx` / `.pdf`**。
+按关键词从 [gov.cn](https://www.gov.cn) 搜索政策文件，并发爬取正文，合并去重导出 **JSON、CSV、XLSX** 和 **逐篇导出 `.docx` / `.pdf`**。
 
 ## 目录
 
