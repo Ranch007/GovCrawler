@@ -1,7 +1,8 @@
 # GovCrawler · 中国政府网政策文章采集工具
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-Academic%20Only-lightgrey)]()
+[![Status](https://img.shields.io/badge/Status-Research-orange)]()
 
 按关键词从 [gov.cn](https://www.gov.cn) 搜索政策文件，并发爬取正文，合并去重导出 **JSON、CSV、XLSX** 和 **逐篇导出 `.docx` / `.pdf`**。
 
@@ -215,4 +216,4 @@ python -m src.generate_docx --fmt both
 
 ## 许可
 
-[MIT](LICENSE)
+[Academic](LICENSE)
