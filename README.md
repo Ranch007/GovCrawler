@@ -217,4 +217,4 @@ python -m src.generate_docx --fmt both
 
 ## 许可
 
-[Academic](LICENSE)
+[MIT](LICENSE)
